@@ -39,3 +39,14 @@ D:\Численные методы\СЛАУ\obj\Debug\СЛАУ.csproj.GenerateRe
 D:\Численные методы\СЛАУ\obj\Debug\СЛАУ.csproj.CoreCompileInputs.cache
 D:\Численные методы\СЛАУ\obj\Debug\СЛАУ.exe
 D:\Численные методы\СЛАУ\obj\Debug\СЛАУ.pdb
+C:\Users\notox\Documents\GIT\SLAU\bin\Debug\СЛАУ.exe.config
+C:\Users\notox\Documents\GIT\SLAU\bin\Debug\СЛАУ.exe
+C:\Users\notox\Documents\GIT\SLAU\bin\Debug\СЛАУ.pdb
+C:\Users\notox\Documents\GIT\SLAU\obj\Debug\СЛАУ.csproj.AssemblyReference.cache
+C:\Users\notox\Documents\GIT\SLAU\obj\Debug\СЛАУ.csproj.SuggestedBindingRedirects.cache
+C:\Users\notox\Documents\GIT\SLAU\obj\Debug\СЛАУ.Form1.resources
+C:\Users\notox\Documents\GIT\SLAU\obj\Debug\СЛАУ.Properties.Resources.resources
+C:\Users\notox\Documents\GIT\SLAU\obj\Debug\СЛАУ.csproj.GenerateResource.cache
+C:\Users\notox\Documents\GIT\SLAU\obj\Debug\СЛАУ.csproj.CoreCompileInputs.cache
+C:\Users\notox\Documents\GIT\SLAU\obj\Debug\СЛАУ.exe
+C:\Users\notox\Documents\GIT\SLAU\obj\Debug\СЛАУ.pdb

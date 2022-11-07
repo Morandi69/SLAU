@@ -46,14 +46,14 @@ namespace СЛАУ
                       9};
 
 
-        double [,] A2 = { { 10, 1, -1},
+        double [,] A2 = { { 10, 15, -1},
                           {1, 10, -1},
                           {-1, 1, 10} };
         double [] F2= {11,
                        10,
                        10};
 
-        double[,] A = {  { 5, 1, 1, 1},
+        double[,] A = {  { 5, 10, 1, 1},
                           {1, 5, 1, 1},
                           {1, 1, 5, 1},
                           {1, 1, 1, 5} };
@@ -157,7 +157,7 @@ namespace СЛАУ
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double[] x = Yakoby(A, F);
+            double[] x = Yakoby(A2, F2);
             Label[] labels = { label2, label3, label4, label5 };
             for (int i = 0; i < x.Length; i++)
             {
